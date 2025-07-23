@@ -1,6 +1,5 @@
-[![Logo](/logo.png)](https://30secondsofcode.org/js/p/1)
 
-# 30 seconds of code
+# Code Utility
 
 > Coding articles to level up your development skills
 
@@ -10,7 +9,7 @@
 * Click on each card to view the whole article, including code snippets, explanation and examples.
 * If you like the project, give it a star. It means a lot.
 
-## Want to contribute?
+## Our Contribution
 
 * New content contributions are not accepted at this time.
 * You can, however, report problems with the website or suggest improvements by [opening an issue](https://github.com/Chalarangelo/30-seconds-of-code/issues/new).
